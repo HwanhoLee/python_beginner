@@ -80,7 +80,7 @@ print(player)
 
 # for...in..
 websites = (
-    "naver.com",
+    "https://naver.com",
     "https://google.com",
     "https://daum.net",
     "tiktok.com",
